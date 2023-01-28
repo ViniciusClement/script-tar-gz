@@ -1,6 +1,8 @@
-﻿# Reated by CR1V0
+# Created by CR1V0
+# This program is designed for study only
 
-$url = Read-Host -Prompt 'Inform URL that contains files (.tar.gz): '
+
+$url = Read-Host -Prompt 'Enter the URL containing the files (tar.gz) '
 #$url = 'https://www.kgay4all.com/seioqueseiporleroqueleio/Offsensive/'
 
 # Resquest to web site
